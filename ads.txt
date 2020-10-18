@@ -6,6 +6,7 @@
 <link rel="profile" href="https://gmpg.org/xfn/11" />
 <link rel="pingback" href="https://mindcraft_github.archerdesu.ga/xmlrpc.php" />
 <title></title>
+<meta name='robots' content='noindex,nofollow' />
 <link rel='dns-prefetch' href='//mindcraft_github.archerdesu.ga/' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://mindcraft_github.archerdesu.ga/" />
@@ -19,7 +20,7 @@
 <link rel='stylesheet' id='elementor-frontend-css' href='https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.10' media='all' />
 <link rel='stylesheet' id='elementor-post-6-css' href='https://mindcraft_github.archerdesu.ga/wp-content/uploads/elementor/css/post-6.css?ver=1602745103' media='all' />
 <link rel='stylesheet' id='elementor-global-css' href='https://mindcraft_github.archerdesu.ga/wp-content/uploads/elementor/css/global.css?ver=1602745103' media='all' />
-<link rel='stylesheet' id='elementor-post-124-css' href='https://mindcraft_github.archerdesu.ga/wp-content/uploads/elementor/css/post-124.css?ver=1602745587' media='all' />
+<link rel='stylesheet' id='elementor-post-2130-css' href='https://mindcraft_github.archerdesu.ga/wp-content/uploads/elementor/css/post-2130.css?ver=1602944376' media='all' />
 <link rel='stylesheet' id='hfe-widgets-style-css' href='https://mindcraft_github.archerdesu.ga/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.5.3' media='all' />
 <link rel='stylesheet' id='elementor-post-1829-css' href='https://mindcraft_github.archerdesu.ga/wp-content/uploads/elementor/css/post-1829.css?ver=1602745103' media='all' />
 <link rel='stylesheet' id='elementor-post-2195-css' href='https://mindcraft_github.archerdesu.ga/wp-content/uploads/elementor/css/post-2195.css?ver=1602943811' media='all' />
@@ -33,14 +34,92 @@
 <link rel='stylesheet' id='font-scrollmagic-css' href='https://mindcraft_github.archerdesu.ga/wp-content/plugins/scroll_magic/assets/libs/font-scrollmagic/style.css?ver=5.5.1' media='all' />
 <link rel='stylesheet' id='animate-css' href='https://mindcraft_github.archerdesu.ga/wp-content/plugins/scroll_magic/assets/libs/animate/animate.min.css?ver=5.5.1' media='all' />
 <link rel='stylesheet' id='bb-scrollmagic-css' href='https://mindcraft_github.archerdesu.ga/wp-content/plugins/scroll_magic//assets/css/bb-scrollmagic.css?ver=4.0.7.1' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.1' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.1' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.12.0' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.12.0' media='all' /><link rel="stylesheet" type="text/css" href="https://mindcraft_github.archerdesu.ga/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=ff7f6f5b" media="all" />
+<style type="text/css">.n2-ss-spinner-simple-white-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -20px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 1000;
+}
+
+.n2-ss-spinner-simple-white {
+  outline: 1px solid RGBA(0,0,0,0);
+  width:100%;
+  height: 100%;
+}
+
+.n2-ss-spinner-simple-white:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -11px;
+    margin-left: -11px;
+}
+
+.n2-ss-spinner-simple-white:not(:required):before {
+    content: '';
+    border-radius: 50%;
+    border-top: 2px solid #333;
+    border-right: 2px solid transparent;
+    animation: n2SimpleWhite .6s linear infinite;
+}
+@keyframes n2SimpleWhite {
+    to {transform: rotate(360deg);}
+}
+.n2-ss-spinner-simple-white-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -20px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 1000;
+}
+
+.n2-ss-spinner-simple-white {
+  outline: 1px solid RGBA(0,0,0,0);
+  width:100%;
+  height: 100%;
+}
+
+.n2-ss-spinner-simple-white:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -11px;
+    margin-left: -11px;
+}
+
+.n2-ss-spinner-simple-white:not(:required):before {
+    content: '';
+    border-radius: 50%;
+    border-top: 2px solid #333;
+    border-right: 2px solid transparent;
+    animation: n2SimpleWhite .6s linear infinite;
+}
+@keyframes n2SimpleWhite {
+    to {transform: rotate(360deg);}
+}</style>
 <script src='https://mindcraft_github.archerdesu.ga/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <script src='https://mindcraft_github.archerdesu.ga/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.5' id='twentytwenty-js-js' async></script>
-<link rel="https://api.w.org/" href="https://mindcraft_github.archerdesu.ga/index.php?rest_route=/" /><link rel="alternate" type="application/json" href="https://mindcraft_github.archerdesu.ga/index.php?rest_route=/wp/v2/pages/124" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mindcraft_github.archerdesu.ga/xmlrpc.php?rsd" />
+<link rel="https://api.w.org/" href="https://mindcraft_github.archerdesu.ga/index.php?rest_route=/" /><link rel="alternate" type="application/json" href="https://mindcraft_github.archerdesu.ga/index.php?rest_route=/wp/v2/pages/2130" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mindcraft_github.archerdesu.ga/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 5.5.1" />
 <link rel="canonical" href="https://mindcraft_github.archerdesu.ga/" />
 <link rel='shortlink' href='https://mindcraft_github.archerdesu.ga/' />
@@ -94,8 +173,13 @@ End of comment */
 <style>
 			</style>
 
-</head>
-<body class="home page-template page-template-elementor_header_footer page page-id-124 wp-embed-responsive ehf-header ehf-footer ehf-template-twentytwenty ehf-stylesheet-twentytwenty singular missing-post-thumbnail has-no-pagination not-showing-comments show-avatars elementor_header_footer footer-top-visible elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-124">
+<script type="text/javascript">(function(){var N=this;N.N2_=N.N2_||{r:[],d:[]},N.N2R=N.N2R||function(){N.N2_.r.push(arguments)},N.N2D=N.N2D||function(){N.N2_.d.push(arguments)}}).call(window);if(!window.n2jQuery){window.n2jQuery={ready:function(cb){console.error('n2jQuery will be deprecated!');N2R(['$'],cb)}}}window.nextend={jQueryFallback:'https://mindcraft_github.archerdesu.ga/wp-includes/js/jquery/jquery.js',localization:{},ready:function(cb){console.error('nextend.ready will be deprecated!');N2R('documentReady',function($){cb.call(window,$)})}};nextend.fontsLoaded=false;nextend.fontsLoadedActive=function(){nextend.fontsLoaded=true};var requiredFonts=["Roboto:n3","Roboto:n4","Roboto:n3","Roboto:n4"],fontData={google:{families:["Roboto:300,400,300,400:latin"]},active:function(){nextend.fontsLoadedActive()},inactive:function(){nextend.fontsLoadedActive()},fontactive:function(f,s){fontData.resolveFont(f+':'+s)},fontinactive:function(f,s){fontData.resolveFont(f+':'+s)},resolveFont:function(n){for(var i=requiredFonts.length-1;i>=0;i--){if(requiredFonts[i]===n){requiredFonts.splice(i,1);break}}if(!requiredFonts.length)nextend.fontsLoadedActive()}};if(typeof WebFontConfig!=='undefined'&&typeof WebFont==='undefined'){var _WebFontConfig=WebFontConfig;for(var k in WebFontConfig){if(k=='active'){fontData.active=function(){nextend.fontsLoadedActive();_WebFontConfig.active()}}else if(k=='inactive'){fontData.inactive=function(){nextend.fontsLoadedActive();_WebFontConfig.inactive()}}else if(k=='fontactive'){fontData.fontactive=function(f,s){fontData.resolveFont(f+':'+s);_WebFontConfig.fontactive.apply(this,arguments)}}else if(k=='fontinactive'){fontData.fontinactive=function(f,s){fontData.resolveFont(f+':'+s);_WebFontConfig.fontinactive.apply(this,arguments)}}else if(k=='google'){if(typeof WebFontConfig.google.families!=='undefined'){for(var i=0;i<WebFontConfig.google.families.length;i++){fontData.google.families.push(WebFontConfig.google.families[i])}}}else{fontData[k]=WebFontConfig[k]}}}fontData.classes=true;fontData.events=true;if(typeof WebFont==='undefined'){window.WebFontConfig=fontData}else{WebFont.load(fontData)}</script><script type="text/javascript" src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript" src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript" src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/smartslider-simple-type-frontend.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript" src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/smartslider-backgroundanimation.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript" src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/nextend-webfontloader.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript">N2R('documentReady',function($){nextend.fontsDeferred=$.Deferred();if(nextend.fontsLoaded){nextend.fontsDeferred.resolve()}else{nextend.fontsLoadedActive=function(){nextend.fontsLoaded=true;nextend.fontsDeferred.resolve()};var intercalCounter=0;nextend.fontInterval=setInterval(function(){if(intercalCounter>3||document.documentElement.className.indexOf('wf-active')!==-1){nextend.fontsLoadedActive();clearInterval(nextend.fontInterval)}intercalCounter++},1000)}N2R(["documentReady","smartslider-frontend","smartslider-simple-type-frontend"],function(){new N2Classes.SmartSliderSimple('#n2-ss-6',{"admin":false,"callbacks":"","background.video.mobile":1,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1,"scrollSpeed":400},"align":"normal","isDelayed":0,"load":{"fade":1,"scroll":0},"playWhenVisible":1,"playWhenVisibleAt":0.5,"responsive":{"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"fullwidth","downscale":1,"upscale":1,"minimumHeight":0,"maximumSlideWidth":{"desktopLandscape":3000,"desktopPortrait":3000,"tabletLandscape":3000,"tabletPortrait":3000,"mobileLandscape":3000,"mobilePortrait":3000},"forceFull":1,"forceFullOverflowX":"body","forceFullHorizontalSelector":"body","constrainRatio":1,"sliderHeightBasedOn":"real","decreaseSliderHeight":0,"focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1920,"height":800,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":292,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":133,"max":900,"min":320}},"normalizedDeviceModes":{"unknown":"desktopPortrait","desktopPortrait":"desktopPortrait","desktopLandscape":"desktopPortrait","tabletLandscape":"desktopPortrait","tabletPortrait":"tabletPortrait","mobileLandscape":"tabletPortrait","mobilePortrait":"mobilePortrait"},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":8000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":"0","mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"bgAnimationsColor":"RGBA(51,51,51,1)","bgAnimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","parallax":0,"shiftedBackgroundAnimation":0},"carousel":1,"dynamicHeight":0,"initCallbacks":function($){N2D("SmartSliderWidgetArrowImage","SmartSliderWidget",function(e,i){function r(e,i,t,s,r,o){this.key=e,this.action=t,this.desktopRatio=s,this.tabletRatio=r,this.mobileRatio=o,N2Classes.SmartSliderWidget.prototype.constructor.call(this,i)}return((r.prototype=Object.create(N2Classes.SmartSliderWidget.prototype)).constructor=r).prototype.onStart=function(){this.deferred=e.Deferred(),this.slider.sliderElement.on("SliderDevice",this.onDevice.bind(this)).trigger("addWidget",this.deferred),this.$widget=e("#"+this.slider.elementID+"-arrow-"+this.key).on("click",function(e){e.stopPropagation(),this.slider[this.action]()}.bind(this)),this.$resize=this.$widget.find(".n2-resize"),0===this.$resize.length&&(this.$resize=this.$widget),e.when(this.$widget.n2imagesLoaded(),this.slider.stages.get("ResizeFirst").getDeferred()).always(this.onLoad.bind(this))},r.prototype.onLoad=function(){this.$widget.addClass("n2-ss-widget--calc"),this.previousWidth=this.$resize.width(),this.previousHeight=this.$resize.height(),this.$widget.removeClass("n2-ss-widget--calc"),this.$resize.find("img").css("width","100%"),this.onDevice(null,{device:this.slider.responsive.getDeviceMode()}),this.deferred.resolve()},r.prototype.onDevice=function(e,i){var t=1;switch(i.device){case"tabletPortrait":case"tabletLandscape":t=this.tabletRatio;break;case"mobilePortrait":case"mobileLandscape":t=this.mobileRatio;break;default:t=this.desktopRatio}this.$resize.width(this.previousWidth*t),this.$resize.height(this.previousHeight*t)},function(e,i,t,s){this.key="arrow",this.previous=new r("previous",e,"previousWithDirection",i,t,s),this.next=new r("next",e,"nextWithDirection",i,t,s)}});new N2Classes.SmartSliderWidgetArrowImage(this,1,1,0.5)}})});N2R(["documentReady","smartslider-frontend","smartslider-backgroundanimation","smartslider-simple-type-frontend"],function(){new N2Classes.SmartSliderSimple('#n2-ss-3',{"admin":false,"callbacks":"","background.video.mobile":1,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1,"scrollSpeed":400},"align":"normal","isDelayed":0,"load":{"fade":1,"scroll":0},"playWhenVisible":1,"playWhenVisibleAt":0.5,"responsive":{"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"fullwidth","downscale":1,"upscale":1,"minimumHeight":0,"maximumSlideWidth":{"desktopLandscape":1920,"desktopPortrait":1920,"tabletLandscape":1920,"tabletPortrait":1920,"mobileLandscape":1920,"mobilePortrait":1920},"forceFull":1,"forceFullOverflowX":"body","forceFullHorizontalSelector":"body","constrainRatio":1,"sliderHeightBasedOn":"real","decreaseSliderHeight":0,"focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1920,"height":600,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":219,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":100,"max":900,"min":320}},"normalizedDeviceModes":{"unknown":"desktopPortrait","desktopPortrait":"desktopPortrait","desktopLandscape":"desktopPortrait","tabletLandscape":"desktopPortrait","tabletPortrait":"tabletPortrait","mobileLandscape":"tabletPortrait","mobilePortrait":"mobilePortrait"},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":0,"start":1,"duration":8000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":"0","mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"bgAnimationsColor":"RGBA(51,51,51,1)","bgAnimations":{"global":0,"color":"RGBA(51,51,51,1)","speed":"normal","slides":[{"animation":[{"type":"Flat","rows":1,"columns":25,"tiles":{"delay":0.03,"sequence":"BackwardCol"},"main":{"type":"next","duration":0.35,"next":{"ease":"easeInQuart","opacity":"0","left":"-100%"}},"invert":{"next":{"left":"100%"}},"invertTiles":{"sequence":"ForwardCol"}}],"speed":"normal"},{"animation":[{"type":"Flat","rows":1,"columns":25,"tiles":{"delay":0.03,"sequence":"BackwardCol"},"main":{"type":"next","duration":0.35,"next":{"ease":"easeInQuart","opacity":"0","left":"-100%"}},"invert":{"next":{"left":"100%"}},"invertTiles":{"sequence":"ForwardCol"}}],"speed":"normal"},{"animation":[{"type":"Flat","rows":1,"columns":25,"tiles":{"delay":0.03,"sequence":"BackwardCol"},"main":{"type":"next","duration":0.35,"next":{"ease":"easeInQuart","opacity":"0","left":"-100%"}},"invert":{"next":{"left":"100%"}},"invertTiles":{"sequence":"ForwardCol"}}],"speed":"normal"}]},"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","parallax":0,"shiftedBackgroundAnimation":0},"carousel":1,"dynamicHeight":0,"initCallbacks":function($){N2D("SmartSliderWidgetArrowImage","SmartSliderWidget",function(e,i){function r(e,i,t,s,r,o){this.key=e,this.action=t,this.desktopRatio=s,this.tabletRatio=r,this.mobileRatio=o,N2Classes.SmartSliderWidget.prototype.constructor.call(this,i)}return((r.prototype=Object.create(N2Classes.SmartSliderWidget.prototype)).constructor=r).prototype.onStart=function(){this.deferred=e.Deferred(),this.slider.sliderElement.on("SliderDevice",this.onDevice.bind(this)).trigger("addWidget",this.deferred),this.$widget=e("#"+this.slider.elementID+"-arrow-"+this.key).on("click",function(e){e.stopPropagation(),this.slider[this.action]()}.bind(this)),this.$resize=this.$widget.find(".n2-resize"),0===this.$resize.length&&(this.$resize=this.$widget),e.when(this.$widget.n2imagesLoaded(),this.slider.stages.get("ResizeFirst").getDeferred()).always(this.onLoad.bind(this))},r.prototype.onLoad=function(){this.$widget.addClass("n2-ss-widget--calc"),this.previousWidth=this.$resize.width(),this.previousHeight=this.$resize.height(),this.$widget.removeClass("n2-ss-widget--calc"),this.$resize.find("img").css("width","100%"),this.onDevice(null,{device:this.slider.responsive.getDeviceMode()}),this.deferred.resolve()},r.prototype.onDevice=function(e,i){var t=1;switch(i.device){case"tabletPortrait":case"tabletLandscape":t=this.tabletRatio;break;case"mobilePortrait":case"mobileLandscape":t=this.mobileRatio;break;default:t=this.desktopRatio}this.$resize.width(this.previousWidth*t),this.$resize.height(this.previousHeight*t)},function(e,i,t,s){this.key="arrow",this.previous=new r("previous",e,"previousWithDirection",i,t,s),this.next=new r("next",e,"nextWithDirection",i,t,s)}});new N2Classes.SmartSliderWidgetArrowImage(this,1,1,0.5);N2D("SmartSliderWidgetBulletTransition","SmartSliderWidget",function(l,s){function t(t,e){this.key="bullet",this.parameters=e,N2Classes.SmartSliderWidget.prototype.constructor.call(this,t)}return((t.prototype=Object.create(N2Classes.SmartSliderWidget.prototype)).constructor=t).prototype.onStart=function(){switch(this.hasDots=!0,this.axis="horizontal",this.offset=0,this.$bar=this.slider.sliderElement.find(".nextend-bullet-bar"),this.$widget=this.$bar.parent(),this.event="universalclick","mouseenter"===this.parameters.action&&(this.event="universalenter"),this.parameters.area){case 5:case 8:this.axis="vertical"}this.slider.stages.done("BeforeShow",this.onBeforeShow.bind(this))},t.prototype.onBeforeShow=function(){this.onVisibleSlidesChanged(),this.hasDots&&this.slider.currentSlide.$dot.addClass("n2-active").removeAttr("tabindex").attr("aria-current","true"),this.slider.sliderElement.on({visibleSlidesChanged:this.onVisibleSlidesChanged.bind(this),SlideWillChange:this.onSlideSwitch.bind(this)})},t.prototype.onSlideSwitch=function(t,e){this.hasDots&&(this.$dots.removeClass("n2-active").attr("tabindex","0").removeAttr("aria-current"),e.$dot.addClass("n2-active").removeAttr("tabindex").attr("aria-current","true"))},t.prototype.showThumbnail=function(t,e){var i=this.getThumbnail(t);NextendTween.to(i,.3,{opacity:1}),t.$dot.one("universalleave.thumbnailleave",this.hideThumbnail.bind(this,i))},t.prototype.hideThumbnail=function(t,e){e.stopPropagation(),NextendTween.to(t,.3,{opacity:0,onComplete:function(){t.remove()}})},t.prototype.getThumbnail=function(t){var e=t.$dot,i=this.slider.sliderElement.offset(),s=e.offset(),o=e.outerWidth(),a=e.outerHeight(),r=l("<div></div>").append(l("<div></div>").css({width:this.parameters.thumbnailWidth,height:this.parameters.thumbnailHeight,backgroundImage:'url("'+t.getThumbnail()+'")'}).addClass("n2-ss-bullet-thumbnail")).addClass(this.parameters.thumbnailStyle).addClass("n2-ss-bullet-thumbnail-container").appendTo(this.slider.sliderElement);switch(this.parameters.thumbnailPosition){case"right":r.css({left:s.left-i.left+o,top:s.top-i.top+a/2-r.outerHeight(!0)/2});break;case"left":r.css({left:s.left-i.left-r.outerWidth(!0),top:s.top-i.top+a/2-r.outerHeight(!0)/2});break;case"top":r.css({left:s.left-i.left+o/2-r.outerWidth(!0)/2,top:s.top-i.top-r.outerHeight(!0)});break;case"bottom":r.css({left:s.left-i.left+o/2-r.outerWidth(!0)/2,top:s.top-i.top+a})}return e.data("thumbnail",r),r},t.prototype.onVisibleSlidesChanged=function(){if(this.$dotsOuter!==s&&(this.$dotsOuter.remove(),delete this.$dotsOuter),this.$bar.html(""),this.slider.visibleSlides.length<=1)this.hasDots=!1;else{this.hasDots=!0,this.$dots=l(),this.$dotsOuter=l();for(var t=0;t<this.slider.visibleSlides.length;t++){var e=this.slider.visibleSlides[t],i=l('<div class="n2-ow n2-bullet '+this.parameters.dotClasses+'" tabindex="0"></div>').attr("role","button").attr("aria-label",e.getTitle()).appendTo(this.$bar);switch(this.$dotsOuter=this.$dotsOuter.add(i.wrap(l('<div class="n2-ow"></div>').on(this.event,this.onDotClick.bind(this,e))).on("n2Activate",this.onDotClick.bind(this,e))),e.$dot=i,this.$dots=this.$dots.add(i),this.parameters.mode){case"numeric":i.html(t+1);break;case"title":i.html(e.getTitle())}1===this.parameters.thumbnail&&e.getThumbnail()&&i.on({universalenter:this.showThumbnail.bind(this,e)},{leaveOnSecond:!0})}this.onSlideSwitch(null,this.slider.currentSlide)}},t.prototype.onDotClick=function(t,e){this.slider.directionalChangeTo(t.index)},t.prototype.calculateDimensions=function(t){this.isVisible()?(this.$widget.addClass("n2-ss-control-bullet--calculate-size"),t[this.key+"width"]=this.$bar.outerWidth(),t[this.key+"height"]=this.$bar.outerHeight(),this.$widget.removeClass("n2-ss-control-bullet--calculate-size")):(t[this.key+"width"]=0,t[this.key+"height"]=0)},t});new N2Classes.SmartSliderWidgetBulletTransition(this,{"area":10,"dotClasses":"n2-style-785355f374be86c332d4665aae819858-dot ","mode":"","action":"click"})}})})});</script></head>
+<body class="home page-template-default page page-id-2130 wp-embed-responsive ehf-header ehf-footer ehf-template-twentytwenty ehf-stylesheet-twentytwenty singular missing-post-thumbnail has-no-pagination not-showing-comments show-avatars footer-top-visible elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-2130">
 <a class="skip-link screen-reader-text" href="#site-content">Skip to the content</a><div id="page" class="hfeed site">
 <header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
 <p class="main-title bhf-hidden" itemprop="headline"><a href="https://mindcraft_github.archerdesu.ga/" title="" rel="home"></a></p>
@@ -123,9 +207,9 @@ End of comment */
 </div>
 <nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes"><ul id="menu-1-a65b725" class="hfe-nav-menu"><li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://mindcraft_github.archerdesu.ga/?page_id=39" class="hfe-menu-item">Design 1</a></li>
 <li id="menu-item-1824" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://mindcraft_github.archerdesu.ga/?page_id=39" class="hfe-menu-item">Design 1</a></li>
-<li id="menu-item-1825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-124 current_page_item parent hfe-creative-menu"><a href="https://mindcraft_github.archerdesu.ga/" class="hfe-menu-item">Sample Page</a></li>
+<li id="menu-item-1825" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://mindcraft_github.archerdesu.ga/?page_id=124" class="hfe-menu-item">Sample Page</a></li>
 <li id="menu-item-1826" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://mindcraft_github.archerdesu.ga/?page_id=7" class="hfe-menu-item">Sample Page</a></li>
-<li id="menu-item-2143" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://mindcraft_github.archerdesu.ga/?page_id=2130" class="hfe-menu-item">Elementor #2130</a></li>
+<li id="menu-item-2218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2130 current_page_item parent hfe-creative-menu"><a href="https://mindcraft_github.archerdesu.ga/" class="hfe-menu-item">Latest draft</a></li>
 </ul></nav>
 </div>
 </div>
@@ -140,102 +224,821 @@ End of comment */
 </div>
 </div>
 </header>
-<div data-elementor-type="wp-page" data-elementor-id="124" class="elementor elementor-124" data-elementor-settings="[]">
+<div data-elementor-type="wp-page" data-elementor-id="2130" class="elementor elementor-2130" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
-<section class="elementor-section elementor-top-section elementor-element elementor-element-4a6625f elementor-section-height-full elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="4a6625f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-4e79e4f5 elementor-section-full_width elementor-section-height-full elementor-section-height-default elementor-section-items-middle" data-id="4e79e4f5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-162af3e0" data-id="162af3e0" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-c0a5c2c elementor-widget elementor-widget-smartslider" data-id="c0a5c2c" data-element_type="widget" data-widget_type="smartslider.default">
+<div class="elementor-widget-container">
+<div class="n2-section-smartslider fitvidsignore  n2_clear" role="region" aria-label="Slider"><style>div#n2-ss-6{width:1920px;}div#n2-ss-6 .n2-ss-slider-1{position:relative;}div#n2-ss-6 .n2-ss-slider-background-video-container{position:absolute;left:0;top:0;width:100%;height:100%;overflow:hidden;}div#n2-ss-6 .n2-ss-slider-2{position:relative;overflow:hidden;padding:0px 0px 0px 0px;height:800px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-6.n2-ss-mobileLandscape .n2-ss-slider-2,div#n2-ss-6.n2-ss-mobilePortrait .n2-ss-slider-2{background-attachment:scroll;}div#n2-ss-6 .n2-ss-slider-3{position:relative;width:100%;height:100%;overflow:hidden;outline:1px solid rgba(0,0,0,0);z-index:10;}div#n2-ss-6 .n2-ss-slide-backgrounds,div#n2-ss-6 .n2-ss-slider-3 > .n-particles-js-canvas-el,div#n2-ss-6 .n2-ss-slider-3 > .n2-ss-divider{position:absolute;left:0;top:0;width:100%;height:100%;}div#n2-ss-6 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-6 .n2-ss-slider-3 > .n-particles-js-canvas-el{z-index:12;}div#n2-ss-6 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-6 .n2-ss-slide{position:absolute;top:0;left:0;width:100%;height:100%;z-index:20;display:block;-webkit-backface-visibility:hidden;}div#n2-ss-6 .n2-ss-layers-container{position:relative;width:1920px;height:800px;}div#n2-ss-6 .n2-ss-parallax-clip > .n2-ss-layers-container{position:absolute;right:0;}div#n2-ss-6 .n2-ss-slide{perspective:1500px;}div#n2-ss-6[data-ie] .n2-ss-slide{perspective:none;transform:perspective(1500px);}div#n2-ss-6 .n2-ss-slide-active{z-index:21;}div#n2-ss-6 .n2-ss-button-container,div#n2-ss-6 .n2-ss-button-container a{display:inline-block;}div#n2-ss-6 .n2-ss-button-container.n2-ss-fullwidth,div#n2-ss-6 .n2-ss-button-container.n2-ss-fullwidth a{display:block;}div#n2-ss-6 .n2-ss-button-container.n2-ss-nowrap{white-space:nowrap;}div#n2-ss-6 .n2-ss-button-container a div{display:inline;font-size:inherit;text-decoration:inherit;color:inherit;line-height:inherit;font-family:inherit;font-weight:inherit;}div#n2-ss-6 .n2-ss-button-container a > div{display:inline-flex;align-items:center;vertical-align:top;}div#n2-ss-6 .n2-ss-button-container span{font-size:100%;vertical-align:baseline;}div#n2-ss-6 .n2-ss-button-container a[data-iconplacement="left"] span{margin-right:0.3em;}div#n2-ss-6 .n2-ss-button-container a[data-iconplacement="right"] span{margin-left:0.3em;}div#n2-ss-6 .nextend-arrow{cursor:pointer;overflow:hidden;line-height:0 !important;z-index:18;}div#n2-ss-6 .nextend-arrow img{position:relative;min-height:0;min-width:0;vertical-align:top;width:auto;height:auto;max-width:100%;max-height:100%;display:inline;}div#n2-ss-6 .nextend-arrow img.n2-arrow-hover-img{display:none;}div#n2-ss-6 .nextend-arrow:HOVER img.n2-arrow-hover-img{display:inline;}div#n2-ss-6 .nextend-arrow:HOVER img.n2-arrow-normal-img{display:none;}div#n2-ss-6 .nextend-arrow-animated{overflow:hidden;}div#n2-ss-6 .nextend-arrow-animated > div{position:relative;}div#n2-ss-6 .nextend-arrow-animated .n2-active{position:absolute;}div#n2-ss-6 .nextend-arrow-animated-fade{transition:background 0.3s, opacity 0.4s;}div#n2-ss-6 .nextend-arrow-animated-horizontal > div{transition:all 0.4s;left:0;}div#n2-ss-6 .nextend-arrow-animated-horizontal .n2-active{top:0;}div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div,div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{left:-100%;}div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active,div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div{left:100%;}div#n2-ss-6 .nextend-arrow.nextend-arrow-animated-horizontal:HOVER .n2-active,div#n2-ss-6 .nextend-arrow.nextend-arrow-animated-horizontal:FOCUS .n2-active{left:0;}div#n2-ss-6 .nextend-arrow-animated-vertical > div{transition:all 0.4s;top:0;}div#n2-ss-6 .nextend-arrow-animated-vertical .n2-active{left:0;}div#n2-ss-6 .nextend-arrow-animated-vertical .n2-active{top:-100%;}div#n2-ss-6 .nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-6 .nextend-arrow-animated-vertical:FOCUS > div{top:100%;}div#n2-ss-6 .nextend-arrow-animated-vertical:HOVER .n2-active,div#n2-ss-6 .nextend-arrow-animated-vertical:FOCUS .n2-active{top:0;}div#n2-ss-6 .n2-font-506310b69861c43e57a7093cf84dc95b-hover{font-family: 'Roboto','Arial';color: #ffffff;font-size:300%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: normal;word-spacing: normal;text-transform: none;}div#n2-ss-6 .n2-font-b20bd2e637221dfaf92c729a6979e9ea-paragraph{font-family: 'Roboto','Arial';color: #ffffff;font-size:112.5%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: normal;word-spacing: normal;text-transform: none;}div#n2-ss-6 .n2-font-b20bd2e637221dfaf92c729a6979e9ea-paragraph a, div#n2-ss-6 .n2-font-b20bd2e637221dfaf92c729a6979e9ea-paragraph a:FOCUS{font-family: 'Roboto','Arial';color: #ffffff;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: normal;word-spacing: normal;text-transform: none;}div#n2-ss-6 .n2-font-b20bd2e637221dfaf92c729a6979e9ea-paragraph a:HOVER, div#n2-ss-6 .n2-font-b20bd2e637221dfaf92c729a6979e9ea-paragraph a:ACTIVE{@tab2}div#n2-ss-6 .n2-font-84e292a8fbeb80cea5ed4e3cbad1bda8-link a{font-family: 'Roboto','Arial';color: #ffffff;font-size:87.5%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: center;letter-spacing: normal;word-spacing: normal;text-transform: none;}div#n2-ss-6 .n2-font-84e292a8fbeb80cea5ed4e3cbad1bda8-link a:HOVER, div#n2-ss-6 .n2-font-84e292a8fbeb80cea5ed4e3cbad1bda8-link a:ACTIVE, div#n2-ss-6 .n2-font-84e292a8fbeb80cea5ed4e3cbad1bda8-link a:FOCUS{@tab1}div#n2-ss-6 .n2-style-9f73558cd130b3ff9f25f7040a2168b2-heading{background: #5cba3c;opacity:1;padding:10px 30px 10px 30px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-6 .n2-style-9f73558cd130b3ff9f25f7040a2168b2-heading:Hover, div#n2-ss-6 .n2-style-9f73558cd130b3ff9f25f7040a2168b2-heading:ACTIVE, div#n2-ss-6 .n2-style-9f73558cd130b3ff9f25f7040a2168b2-heading:FOCUS{@tab1}</style><div id="n2-ss-6-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-6" data-creator="Smart Slider 3" class="n2-ss-slider n2-ow n2-has-hover n2notransition landing-page-banner n2-ss-load-fade " style="font-size: 1rem;" data-fontsize="16" data-alias="landing-page-banner">
+<div class="n2-ss-slider-1 n2_ss__touch_element n2-ow" style="">
+<div class="n2-ss-slider-2 n2-ow" style="">
+<div class="n2-ss-slider-3 n2-ow" style="">
+<div class="n2-ss-slide-backgrounds"></div><div data-first="1" data-slide-duration="0" data-id="11" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-11"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="4cd3d87c33791104cbd431d6c97b8062" data-desktop="//mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/1080x720.png" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="12" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-12"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="4cd3d87c33791104cbd431d6c97b8062" data-desktop="//mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/1080x720.png" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="14" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-14"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div class="n2-ss-slide-background-color" style="background-color: #000000;background-color: RGBA(0,0,0,1);"></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"><div class="n2-ss-layer n2-ow" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="center" data-desktopportraitselfalign="center" data-pm="default" data-desktopportraitverticalalign="center" data-desktopportraitpadding="10|*|100|*|10|*|100|*|px+" data-mobileportraitpadding="10|*|10|*|10|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-section-main-content n2-ss-layer-content n2-ow" style="padding:0.625em 6.25em 0.625em 6.25em ;" data-verticalalign="center"><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 0em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|0|*|px+" data-desktopportraitheight="auto" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div id="n2-ss-6item1" class="n2-font-506310b69861c43e57a7093cf84dc95b-hover   n2-ss-item-content n2-ow" style="display:block;">Design 2 &#8211; Colourful</div></div><div class="n2-ss-layer n2-ow" style="margin:0em 0em 1.25em 0em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|20|*|0|*|px+" data-desktopportraitheight="auto" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-item-content n2-ow"><div class=" n2-ow n2-ow-all"><p class="n2-font-b20bd2e637221dfaf92c729a6979e9ea-paragraph   n2-ow">Products Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor [&hellip;]</p>
+</div></div></div><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 0em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|0|*|px+" data-desktopportraitheight="auto" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-84e292a8fbeb80cea5ed4e3cbad1bda8-link  n2-ss-nowrap"><a class="n2-style-9f73558cd130b3ff9f25f7040a2168b2-heading  n2-ow " href="https://mindcraft_github.archerdesu.ga/?page_id=1919"><div><div>Read more</div></div></a></div></div></div></div></div></div></div> </div>
+</div>
+<div data-ssleft="0+15" data-sstop="sliderHeight/2-previousheight/2" id="n2-ss-6-arrow-previous" class="n2-ss-widget n2-ss-widget-hide-mobileportrait nextend-arrow n2-ow nextend-arrow-previous  nextend-arrow-animated-fade n2-ib" style="position: absolute;" role="button" aria-label="previous arrow" tabindex="0"><img class="n2-ow" data-no-lazy="1" data-hack="data-lazy-src" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=" alt="previous arrow" /></div>
+<div data-ssright="0+15" data-sstop="sliderHeight/2-nextheight/2" id="n2-ss-6-arrow-next" class="n2-ss-widget n2-ss-widget-hide-mobileportrait nextend-arrow n2-ow nextend-arrow-next  nextend-arrow-animated-fade n2-ib" style="position: absolute;" role="button" aria-label="next arrow" tabindex="0"><img class="n2-ow" data-no-lazy="1" data-hack="data-lazy-src" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==" alt="next arrow" /></div>
+</div>
+</div><div id="n2-ss-6-spinner" style="display: none;"><div><div class="n2-ss-spinner-simple-white-container"><div class="n2-ss-spinner-simple-white"></div></div></div></div></div></div><div class="n2_clear"></div><div id="n2-ss-6-placeholder" style="min-height:0px;position: relative;z-index:2;background-color:RGBA(0,0,0,0); background-color:RGBA(255,255,255,0);"><img style="width: 100%; max-width:3000px; display: block;opacity:0;margin:0px;" class="n2-ow" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIwIiBoZWlnaHQ9IjgwMCIgPjwvc3ZnPg==" alt="Slider" /></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-577d90d elementor-section-height-full elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="577d90d" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;book&quot;}">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-shape elementor-shape-top" data-negative="false">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+<path class="elementor-shape-fill" d="M194,99c186.7,0.7,305-78.3,306-97.2c1,18.9,119.3,97.9,306,97.2c114.3-0.3,194,0.3,194,0.3s0-91.7,0-100c0,0,0,0,0-0 L0,0v99.3C0,99.3,79.7,98.7,194,99z" />
+</svg> </div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6a743e35" data-id="6a743e35" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-e42e25f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e42e25f" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3b2e78b2" data-id="3b2e78b2" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-5c6961ae elementor-widget elementor-widget-heading" data-id="5c6961ae" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">踏入21世纪
+你需要什么？
+</h2> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-63b0f449" data-id="63b0f449" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-4d1be89 elementor-section-full_width elementor-section-height-full elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="4d1be89" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7bef565c" data-id="7bef565c" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-24a3d06c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="24a3d06c" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5ba82c4d" data-id="5ba82c4d" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-8c0f4ee elementor-widget elementor-widget-text-editor" data-id="8c0f4ee" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix"><p><span style="font-size: 24pt;"><span style="font-weight: 400;">全球著名历史学家，也是《人类大历史》和《人类大命运》的作者，</span><b>尤瓦尔</b><b>·</b><b>诺瓦</b><b>·</b><b>哈拉瑞（</b><span style="font-weight: 400;">Yuval Noah Harari</span><span style="font-weight: 400;">）在总结过去历史及展望未来趋势后，提出『</span><b>4C</b><span style="font-weight: 400;">才是教育的王道』。</span></span></p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0948949 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0948949" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-77a99e0" data-id="77a99e0" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-c656386 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="c656386" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<span class="elementor-icon elementor-animation-">
+<i aria-hidden="true" class="fas fa-star"></i> </span>
+</div>
+<div class="elementor-icon-box-content">
+ <h3 class="elementor-icon-box-title">
+<span>Critical Thinking（批判性思维）</span>
+</h3>
+<p class="elementor-icon-box-description">
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-ca094a5" data-id="ca094a5" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-bcc4f97 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="bcc4f97" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<span class="elementor-icon elementor-animation-">
+<i aria-hidden="true" class="fas fa-star"></i> </span>
+</div>
+<div class="elementor-icon-box-content">
+<h3 class="elementor-icon-box-title">
+<span>Communication（沟通）</span>
+</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3bfc3d2" data-id="3bfc3d2" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-c9b0bd6 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="c9b0bd6" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<span class="elementor-icon elementor-animation-">
+<i aria-hidden="true" class="fas fa-star"></i> </span>
+</div>
+<div class="elementor-icon-box-content">
+<h3 class="elementor-icon-box-title">
+<span>Collaboration（合作）</span>
+</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-dc41ed4" data-id="dc41ed4" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-1405246 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="1405246" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<span class="elementor-icon elementor-animation-">
+<i aria-hidden="true" class="fas fa-star"></i> </span>
+</div>
+<div class="elementor-icon-box-content">
+<h3 class="elementor-icon-box-title">
+<span>Creativity（创意）</span>
+</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-40136409 elementor-section-full_width elementor-section-height-full elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="40136409" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4972bafc" data-id="4972bafc" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-7ff8d11d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7ff8d11d" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1ed90f01" data-id="1ed90f01" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-13a28f19 elementor-widget elementor-widget-text-editor" data-id="13a28f19" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix"><h2><span style="font-size: 24pt;"><span style="font-weight: 400;">由世界卫生组织提出的其中</span><span style="font-weight: 400;">6</span><span style="font-weight: 400;">大『人类必备技能』</span></span></h2></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1b5dcde7" data-id="1b5dcde7" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-7cceaa4d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7cceaa4d" data-element_type="widget" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="elementor-icon-list-text">Empathy 同理心</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="elementor-icon-list-text">Effective Communication 有效沟通</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="elementor-icon-list-text">Critical Thinking 审辩式思维</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="elementor-icon-list-text">Creative Thinking 创意思维</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="elementor-icon-list-text">Decision Making 决策</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check"></i> </span>
+<span class="elementor-icon-list-text">Problem Solving 解决问题</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-924822a elementor-section-full_width elementor-section-height-full elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="924822a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2285675f" data-id="2285675f" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-513f5194 elementor-widget elementor-widget-text-editor" data-id="513f5194" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix"><h1><span style="font-weight: 400;">现在和未来，你都需要</span> <b>良好的思辩能力</b> <span style="font-weight: 400;">和</span> <b>优秀的表达能力</b></h1></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-2e29544a elementor-section-full_width elementor-section-height-full elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="2e29544a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-background-overlay"></div>
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8c7a6b7" data-id="8c7a6b7" data-element_type="column">
-<div class="elementor-column-wrap">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-160cfa46" data-id="160cfa46" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-top-section elementor-element elementor-element-6c225209 elementor-section-content-middle elementor-section-height-full elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="6c225209" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-2a3c79e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2a3c79e8" data-element_type="section">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-55503efe" data-id="55503efe" data-element_type="column">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-623fd97a" data-id="623fd97a" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-45c35b2 elementor-widget elementor-widget-spacer" data-id="45c35b2" data-element_type="widget" data-widget_type="spacer.default">
+<div class="elementor-element elementor-element-257383c7 elementor-widget elementor-widget-text-editor" data-id="257383c7" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<div class="elementor-spacer">
-<div class="elementor-spacer-inner"></div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-2d564b5d elementor-widget elementor-widget-heading" data-id="2d564b5d" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h4 class="elementor-heading-title elementor-size-default">Our Team</h4> </div>
-</div>
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-7a0e545b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7a0e545b" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5dbbad59" data-id="5dbbad59" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-421e3c0 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="421e3c0" data-element_type="widget" data-widget_type="image-box.default">
-<div class="elementor-widget-container">
-<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="400" height="400" src="https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/ava1.png" class="elementor-animation-grow attachment-full size-full" alt="" loading="lazy" srcset="https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/ava1.png 400w, https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/ava1-300x300.png 300w, https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/ava1-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Amanda Lee</h3></div></div> </div>
-</div>
-<div class="elementor-element elementor-element-28edb5bb elementor-widget elementor-widget-text-editor" data-id="28edb5bb" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix"><p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
+<div class="elementor-text-editor elementor-clearfix"><h1><span style="font-weight: 400;">思匠学院</span><span style="font-weight: 400;">— —</span></h1><h1><span style="font-weight: 400;">前瞻性技能的培训基地</span></h1></div>
 </div>
 </div>
 </div>
 </div>
 </div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-039ea28" data-id="039ea28" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-2973fe1 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="2973fe1" data-element_type="widget" data-widget_type="image-box.default">
-<div class="elementor-widget-container">
-<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="400" height="400" src="https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/ava1.png" class="elementor-animation-grow attachment-full size-full" alt="" loading="lazy" srcset="https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/ava1.png 400w, https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/ava1-300x300.png 300w, https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/ava1-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Amanda Lee</h3></div></div> </div>
-</div>
-<div class="elementor-element elementor-element-a112a11 elementor-widget elementor-widget-text-editor" data-id="a112a11" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix"><p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2006877" data-id="2006877" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-459f27b elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="459f27b" data-element_type="widget" data-widget_type="image-box.default">
-<div class="elementor-widget-container">
-<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="400" height="400" src="https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/ava1.png" class="elementor-animation-grow attachment-full size-full" alt="" loading="lazy" srcset="https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/ava1.png 400w, https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/ava1-300x300.png 300w, https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/ava1-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Amanda Lee</h3></div></div> </div>
-</div>
-<div class="elementor-element elementor-element-344b42a elementor-widget elementor-widget-text-editor" data-id="344b42a" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix"><p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-top-section elementor-element elementor-element-3adb561 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3adb561" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c15562a" data-id="c15562a" data-element_type="column">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-374f461e" data-id="374f461e" data-element_type="column">
 <div class="elementor-column-wrap">
 <div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-42d429ef elementor-section-full_width elementor-section-height-full elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="42d429ef" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-174e0431" data-id="174e0431" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-14d69a2d elementor-widget elementor-widget-text-editor" data-id="14d69a2d" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix"><h2>思匠文化， 寓意思想的工匠，成立于9/1/2020。</h2><h2>青少年未来的培训机构。</h2><h2>思匠， 寓意为思想的工匠，为年轻人培养前瞻性技能是我们的企业理念。</h2></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-eff4b24 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="eff4b24" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4782689" data-id="4782689" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-d3bd1af elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="d3bd1af" data-element_type="widget" data-widget_type="divider.default">
+<div class="elementor-widget-container">
+<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+<span class="elementor-divider-separator">
+</span>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-d96d3c9 elementor-view-default elementor-widget elementor-widget-icon" data-id="d96d3c9" data-element_type="widget" data-widget_type="icon.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-wrapper">
+<div class="elementor-icon">
+<i aria-hidden="true" class="fas fa-angle-down"></i> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-523138f4 elementor-section-full_width elementor-section-height-full elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="523138f4" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-422e0158" data-id="422e0158" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-6c30bda5 elementor-widget elementor-widget-heading" data-id="6c30bda5" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">课程提供
+产品 / 服务
+</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-2326ad7a elementor-section-full_width elementor-section-height-full elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="2326ad7a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-30e11a77" data-id="30e11a77" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-4535b517 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4535b517" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-6f621eed" data-id="6f621eed" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-497786c elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="497786c" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">
+思辨培训课竞技辩论培训课程
+</p></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-38268866" data-id="38268866" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-28fcb91a elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="28fcb91a" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">校园辩论工作坊
+</p></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-354ecef3" data-id="354ecef3" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-72f503fc elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="72f503fc" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"> 辩论私训课程
+</p></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-7786da69" data-id="7786da69" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-65f08cf9 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="65f08cf9" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">赛事策划
+</p></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-5888a7ae" data-id="5888a7ae" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-38b61997 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="38b61997" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">辩论营会
+</p></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-638d56be elementor-section-full_width elementor-section-height-full elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="638d56be" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4bcb764" data-id="4bcb764" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-23c9cdc5 elementor-widget elementor-widget-heading" data-id="23c9cdc5" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">导师团队</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-5b0cd733 elementor-section-full_width elementor-section-height-full elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="5b0cd733" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b787a16" data-id="b787a16" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-1c749cfd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1c749cfd" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5fd49b3b" data-id="5fd49b3b" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-202a8407 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="202a8407" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">李荣森<br>circle photo<br></h3></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-20d08ba1" data-id="20d08ba1" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-35a7f351 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="35a7f351" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">周伟进</h3></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3f6e1209" data-id="3f6e1209" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-22a60c4 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="22a60c4" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">吴敏仪</h3></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-100d3194 elementor-section-full_width elementor-section-height-full elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="100d3194" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7557c960" data-id="7557c960" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-5deaddf1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5deaddf1" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2d7795cd" data-id="2d7795cd" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-44b57e35 elementor-widget elementor-widget-text-editor" data-id="44b57e35" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix"><p>still thinking what image to put here</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-62c4b965 elementor-section-height-full elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="62c4b965" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4b243025" data-id="4b243025" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-34beb744 elementor-widget elementor-widget-timeline-widget-addon" data-id="34beb744" data-element_type="widget" data-widget_type="timeline-widget-addon.default">
+<div class="elementor-widget-container">
+<div id="twae-horizontal-wrapper" class="twae-wrapper twae-horizontal swiper-container" data-slidestoshow="3" data-autoplay="true">
+<div class="twae-horizontal-timeline swiper-wrapper"><div class="swiper-slide no-height"><div class="twae-label-extra-label"><div>
+<span class="twae-label">Jul 2020</span>
+<span class="twae-extra-label">思匠课程</span>
+</div></div>
+<div class="twae-icon"></div><div class="twae-story-info">
+<div class="twae-timeline-img"><img width="81" height="29" src="https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/example_bezier.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></div>
+<span class="twae-title">思匠课程</span>
+<div class="twae-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Erat enim res aperta. Ne discipulum abducam, times. Primum quid tu dicis breve? An haec ab eo non dicuntur?</div>
+</div>
+</div><div class="swiper-slide no-height"><div class="twae-label-extra-label"><div>
+<span class="twae-label">Aug 2020</span>
+<span class="twae-extra-label">思匠直播课</span>
+</div></div>
+<div class="twae-icon"><i aria-hidden="true" class="fas fa-wrench"></i></div><div class="twae-story-info">
+ <span class="twae-title">思匠直播课</span>
+<div class="twae-description"><p>Aliter homines, aliter philosophos loqui putas oportere?</p></div>
+</div>
+</div><div class="swiper-slide no-height"><div class="twae-label-extra-label"><div>
+<span class="twae-label">Aug 2007</span>
+<span class="twae-extra-label">网络辩论体验课</span>
+</div></div>
+<div class="twae-icon"><i aria-hidden="true" class="fas fa-asterisk"></i></div><div class="twae-story-info">
+<span class="twae-title">网络辩论体验课</span>
+<div class="twae-description"><p>jfmkdgj</p></div>
+</div>
+</div><div class="swiper-slide no-height"><div class="twae-label-extra-label"><div>
+<span class="twae-label">Sept 2020</span>
+<span class="twae-extra-label">网络辩论营</span>
+</div></div>
+<div class="twae-icon"><i aria-hidden="true" class="fab fa-amazon"></i></div><div class="twae-story-info">
+<div class="twae-timeline-img"><img src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/images/placeholder.png"></img></div>
+<span class="twae-title">网络辩论营</span>
+<div class="twae-description">Add Description Here</div>
+</div>
+</div><div class="swiper-slide no-height"><div class="twae-label-extra-label"><div>
+<span class="twae-label">Sept 2020</span>
+<span class="twae-extra-label">大型表达营会</span>
+</div></div>
+<div class="twae-icon"><i aria-hidden="true" class="fab fa-amazon"></i></div><div class="twae-story-info">
+<div class="twae-timeline-img"><img src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/images/placeholder.png"></img></div>
+<span class="twae-title">大型表达营会</span>
+<div class="twae-description">Add Description Here</div>
+</div>
+</div> </div>
+
+<div class="twae-pagination"></div>
+
+<div class="twae-button-prev twae-icon-left-open-big"></div>
+<div class="twae-button-next twae-icon-right-open-big"></div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-44c6884e elementor-section-height-full elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="44c6884e" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-67a39051" data-id="67a39051" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-772d9c57 elementor-widget elementor-widget-heading" data-id="772d9c57" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Testimonial<br>赞许与回馈</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-2a24b456 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2a24b456" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6cb97c18" data-id="6cb97c18" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-1ee2683 elementor-widget elementor-widget-smartslider" data-id="1ee2683" data-element_type="widget" data-widget_type="smartslider.default">
+<div class="elementor-widget-container">
+<div class="n2-section-smartslider fitvidsignore  n2_clear" role="region" aria-label="Slider"><style>div#n2-ss-3{width:1920px;}div#n2-ss-3 .n2-ss-slider-1{position:relative;}div#n2-ss-3 .n2-ss-slider-background-video-container{position:absolute;left:0;top:0;width:100%;height:100%;overflow:hidden;}div#n2-ss-3 .n2-ss-slider-2{position:relative;overflow:hidden;padding:0px 0px 0px 0px;height:600px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-3.n2-ss-mobileLandscape .n2-ss-slider-2,div#n2-ss-3.n2-ss-mobilePortrait .n2-ss-slider-2{background-attachment:scroll;}div#n2-ss-3 .n2-ss-slider-3{position:relative;width:100%;height:100%;overflow:hidden;outline:1px solid rgba(0,0,0,0);z-index:10;}div#n2-ss-3 .n2-ss-slide-backgrounds,div#n2-ss-3 .n2-ss-slider-3 > .n-particles-js-canvas-el,div#n2-ss-3 .n2-ss-slider-3 > .n2-ss-divider{position:absolute;left:0;top:0;width:100%;height:100%;}div#n2-ss-3 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-3 .n2-ss-slider-3 > .n-particles-js-canvas-el{z-index:12;}div#n2-ss-3 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-3 .n2-ss-slide{position:absolute;top:0;left:0;width:100%;height:100%;z-index:20;display:block;-webkit-backface-visibility:hidden;}div#n2-ss-3 .n2-ss-layers-container{position:relative;width:1920px;height:600px;}div#n2-ss-3 .n2-ss-parallax-clip > .n2-ss-layers-container{position:absolute;right:0;}div#n2-ss-3 .n2-ss-slide{perspective:1500px;}div#n2-ss-3[data-ie] .n2-ss-slide{perspective:none;transform:perspective(1500px);}div#n2-ss-3 .n2-ss-slide-active{z-index:21;}div#n2-ss-3 .nextend-arrow{cursor:pointer;overflow:hidden;line-height:0 !important;z-index:18;}div#n2-ss-3 .nextend-arrow img{position:relative;min-height:0;min-width:0;vertical-align:top;width:auto;height:auto;max-width:100%;max-height:100%;display:inline;}div#n2-ss-3 .nextend-arrow img.n2-arrow-hover-img{display:none;}div#n2-ss-3 .nextend-arrow:HOVER img.n2-arrow-hover-img{display:inline;}div#n2-ss-3 .nextend-arrow:HOVER img.n2-arrow-normal-img{display:none;}div#n2-ss-3 .nextend-arrow-animated{overflow:hidden;}div#n2-ss-3 .nextend-arrow-animated > div{position:relative;}div#n2-ss-3 .nextend-arrow-animated .n2-active{position:absolute;}div#n2-ss-3 .nextend-arrow-animated-fade{transition:background 0.3s, opacity 0.4s;}div#n2-ss-3 .nextend-arrow-animated-horizontal > div{transition:all 0.4s;left:0;}div#n2-ss-3 .nextend-arrow-animated-horizontal .n2-active{top:0;}div#n2-ss-3 .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-3 .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div,div#n2-ss-3 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{left:-100%;}div#n2-ss-3 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active,div#n2-ss-3 .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-3 .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div{left:100%;}div#n2-ss-3 .nextend-arrow.nextend-arrow-animated-horizontal:HOVER .n2-active,div#n2-ss-3 .nextend-arrow.nextend-arrow-animated-horizontal:FOCUS .n2-active{left:0;}div#n2-ss-3 .nextend-arrow-animated-vertical > div{transition:all 0.4s;top:0;}div#n2-ss-3 .nextend-arrow-animated-vertical .n2-active{left:0;}div#n2-ss-3 .nextend-arrow-animated-vertical .n2-active{top:-100%;}div#n2-ss-3 .nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-3 .nextend-arrow-animated-vertical:FOCUS > div{top:100%;}div#n2-ss-3 .nextend-arrow-animated-vertical:HOVER .n2-active,div#n2-ss-3 .nextend-arrow-animated-vertical:FOCUS .n2-active{top:0;}div#n2-ss-3 .n2-ss-control-bullet{visibility:hidden;text-align:center;justify-content:center;z-index:14;}div#n2-ss-3 .n2-ss-control-bullet--calculate-size{left:0 !important;}div#n2-ss-3 .n2-ss-control-bullet-horizontal.n2-ss-control-bullet-fullsize{width:100%;}div#n2-ss-3 .n2-ss-control-bullet-vertical.n2-ss-control-bullet-fullsize{height:100%;flex-flow:column;}div#n2-ss-3 .nextend-bullet-bar{display:inline-flex;visibility:visible;align-items:center;flex-wrap:wrap;}div#n2-ss-3 .n2-bar-justify-content-left{justify-content:flex-start;}div#n2-ss-3 .n2-bar-justify-content-center{justify-content:center;}div#n2-ss-3 .n2-bar-justify-content-right{justify-content:flex-end;}div#n2-ss-3 .n2-ss-control-bullet-vertical > .nextend-bullet-bar{flex-flow:column;}div#n2-ss-3 .n2-ss-control-bullet-fullsize > .nextend-bullet-bar{display:flex;}div#n2-ss-3 .n2-ss-control-bullet-horizontal.n2-ss-control-bullet-fullsize > .nextend-bullet-bar{flex:1 1 auto;}div#n2-ss-3 .n2-ss-control-bullet-vertical.n2-ss-control-bullet-fullsize > .nextend-bullet-bar{height:100%;}div#n2-ss-3 .nextend-bullet-bar .n2-bullet{cursor:pointer;transition:background-color 0.4s;}div#n2-ss-3 .nextend-bullet-bar .n2-bullet.n2-active{cursor:default;}div#n2-ss-3 div.n2-ss-bullet-thumbnail-container{position:absolute;opacity:0;z-index:10000000;}div#n2-ss-3 .n2-ss-bullet-thumbnail-container .n2-ss-bullet-thumbnail{background-size:cover;background-repeat:no-repeat;background-position:center;}div#n2-ss-3 .n2-font-6cb8206dc0979ce98f8ad36fabbf92a7-paragraph{font-family: 'Roboto','Arial';color: #81898d;font-size:281.25%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-3 .n2-font-6cb8206dc0979ce98f8ad36fabbf92a7-paragraph a, div#n2-ss-3 .n2-font-6cb8206dc0979ce98f8ad36fabbf92a7-paragraph a:FOCUS{font-family: 'Roboto','Arial';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-3 .n2-font-6cb8206dc0979ce98f8ad36fabbf92a7-paragraph a:HOVER, div#n2-ss-3 .n2-font-6cb8206dc0979ce98f8ad36fabbf92a7-paragraph a:ACTIVE{font-family: 'Roboto','Arial';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-3 .n2-style-798617c15b830d30a008a43bf8eec27a-heading{background: RGBA(255,255,255,0);opacity:1;padding:20% 20% 20% 20% ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-3 .n2-font-b870ccf548622567991ac70cdd481482-paragraph{font-family: 'Roboto','Arial';color: #ffffff;font-size:87.5%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: normal;word-spacing: normal;text-transform: none;}div#n2-ss-3 .n2-font-b870ccf548622567991ac70cdd481482-paragraph a, div#n2-ss-3 .n2-font-b870ccf548622567991ac70cdd481482-paragraph a:FOCUS{font-family: 'Roboto','Arial';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: normal;word-spacing: normal;text-transform: none;}div#n2-ss-3 .n2-font-b870ccf548622567991ac70cdd481482-paragraph a:HOVER, div#n2-ss-3 .n2-font-b870ccf548622567991ac70cdd481482-paragraph a:ACTIVE{font-family: 'Roboto','Arial';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: inherit;letter-spacing: normal;word-spacing: normal;text-transform: none;}div#n2-ss-3 .n2-style-785355f374be86c332d4665aae819858-dot{background: RGBA(0,0,0,0.67);opacity:1;padding:5px 5px 5px 5px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:50px;margin: 4px;}div#n2-ss-3 .n2-style-785355f374be86c332d4665aae819858-dot.n2-active, div#n2-ss-3 .n2-style-785355f374be86c332d4665aae819858-dot:HOVER, div#n2-ss-3 .n2-style-785355f374be86c332d4665aae819858-dot:FOCUS{background: RGBA(29,129,249,1);}</style><div id="n2-ss-3-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-3" data-creator="Smart Slider 3" class="n2-ss-slider n2-ow n2-has-hover n2notransition  n2-ss-load-fade " style="font-size: 1rem;" data-fontsize="16">
+<div class="n2-ss-slider-1 n2_ss__touch_element n2-ow" style="">
+<div class="n2-ss-slider-2 n2-ow" style="">
+<div class="n2-ss-background-animation n2-ow"></div>
+<div class="n2-ss-slider-3 n2-ow" style="">
+<div class="n2-ss-slide-backgrounds"></div><div data-first="1" data-slide-duration="0" data-id="7" data-title="photo-1528818955841-a7f1425131b5" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-7"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="b29d6a034db6f1d1c1ad416fa721b24e" data-desktop="//mindcraft_github.archerdesu.ga/wp-content/uploads/resized/2f07bfcf7ca7491da8130f751fda868e/text.png" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title="" style="background-position: 50% 49%"></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-13c52325eecc8" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="center" data-desktopportraitselfalign="center" data-pm="default" data-desktopportraitverticalalign="center" data-desktopportraitpadding="10|*|10|*|10|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-section-main-content n2-ss-layer-content n2-ow n-uc-13c52325eecc8-inner" style="padding:0.625em 0.625em 0.625em 0.625em ;" data-verticalalign="center"><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 0em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|0|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-item-content n2-ow"><div class=" n2-ow n2-ow-all"><p class="n2-font-6cb8206dc0979ce98f8ad36fabbf92a7-paragraph  n2-style-798617c15b830d30a008a43bf8eec27a-heading  n2-ow">comments here nice comments here nice comments here nice comments here nice comments here nice comments here nice comments here nice comments here </p>
+</div></div></div></div></div></div></div></div><div data-slide-duration="0" data-id="15" data-title="photo-1528818955841-a7f1425131b5" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-15"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="2c47c34098719969c50209950e2e68ed" data-desktop="//mindcraft_github.archerdesu.ga/wp-content/uploads/resized/0c8c76b670d603c9cf62b37e0580d250/text.png" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-ZkM0yqXVtUbb" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="center" data-desktopportraitselfalign="center" data-pm="default" data-desktopportraitverticalalign="center" data-desktopportraitpadding="10|*|10|*|10|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-section-main-content n2-ss-layer-content n2-ow n-uc-ZkM0yqXVtUbb-inner" style="padding:0.625em 0.625em 0.625em 0.625em ;" data-verticalalign="center"><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 0em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|0|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-item-content n2-ow"><div class=" n2-ow n2-ow-all"><p class="n2-font-b870ccf548622567991ac70cdd481482-paragraph   n2-ow">Lorem ipsum dolor sit amet, <a href="#">consectetur adipiscing</a> elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div></div></div><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 0em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|0|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-item-content n2-ow"><div class=" n2-ow n2-ow-all"><p class="n2-font-6cb8206dc0979ce98f8ad36fabbf92a7-paragraph  n2-style-798617c15b830d30a008a43bf8eec27a-heading  n2-ow">comments here nice comments here nice comments here nice comments here nice comments here nice comments here nice comments here nice comments here </p>
+</div></div></div></div></div></div></div></div><div data-slide-duration="0" data-id="16" data-title="photo-1528818955841-a7f1425131b5" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-16"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="2c47c34098719969c50209950e2e68ed" data-desktop="//mindcraft_github.archerdesu.ga/wp-content/uploads/resized/0c8c76b670d603c9cf62b37e0580d250/text.png" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-vJNhrOBpEylM" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="center" data-desktopportraitselfalign="center" data-pm="default" data-desktopportraitverticalalign="center" data-desktopportraitpadding="10|*|10|*|10|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-section-main-content n2-ss-layer-content n2-ow n-uc-vJNhrOBpEylM-inner" style="padding:0.625em 0.625em 0.625em 0.625em ;" data-verticalalign="center"><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 0em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|0|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-item-content n2-ow"><div class=" n2-ow n2-ow-all"><p class="n2-font-b870ccf548622567991ac70cdd481482-paragraph   n2-ow">Lorem ipsum dolor sit amet, <a href="#">consectetur adipiscing</a> elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div></div></div><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 0em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|0|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-item-content n2-ow"><div class=" n2-ow n2-ow-all"><p class="n2-font-6cb8206dc0979ce98f8ad36fabbf92a7-paragraph  n2-style-798617c15b830d30a008a43bf8eec27a-heading  n2-ow">comments here nice comments here nice comments here nice comments here nice comments here nice comments here nice comments here nice comments here </p>
+</div></div></div></div></div></div></div></div> </div>
+</div>
+<div data-ssleft="0+15" data-sstop="sliderHeight/2-previousheight/2" id="n2-ss-3-arrow-previous" class="n2-ss-widget n2-ss-widget-hide-mobileportrait nextend-arrow n2-ow nextend-arrow-previous  nextend-arrow-animated-fade n2-ib" style="position: absolute;" role="button" aria-label="previous arrow" tabindex="0"><img class="n2-ow" data-no-lazy="1" data-hack="data-lazy-src" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=" alt="previous arrow" /></div>
+<div data-ssright="0+15" data-sstop="sliderHeight/2-nextheight/2" id="n2-ss-3-arrow-next" class="n2-ss-widget n2-ss-widget-hide-mobileportrait nextend-arrow n2-ow nextend-arrow-next  nextend-arrow-animated-fade n2-ib" style="position: absolute;" role="button" aria-label="next arrow" tabindex="0"><img class="n2-ow" data-no-lazy="1" data-hack="data-lazy-src" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==" alt="next arrow" /></div>
+<div data-ssleft="sliderWidth/2-bulletwidth/2" data-ssbottom="0+10" data-offset="10" class="n2-ss-widget  n2-flex n2-ss-control-bullet n2-ss-control-bullet-horizontal" style="position: absolute;"><div class=" nextend-bullet-bar n2-ow n2-bar-justify-content-center"></div></div>
+</div>
+</div><div id="n2-ss-3-spinner" style="display: none;"><div><div class="n2-ss-spinner-simple-white-container"><div class="n2-ss-spinner-simple-white"></div></div></div></div></div></div><div class="n2_clear"></div><div id="n2-ss-3-placeholder" style="min-height:0px;position: relative;z-index:2;background-color:RGBA(0,0,0,0); background-color:RGBA(255,255,255,0);"><img style="width: 100%; max-width:1920px; display: block;opacity:0;margin:0px;" class="n2-ow" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIwIiBoZWlnaHQ9IjYwMCIgPjwvc3ZnPg==" alt="Slider" /></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-bfcc524 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="bfcc524" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1b7f9c57" data-id="1b7f9c57" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-1f34727 elementor-widget elementor-widget-heading" data-id="1f34727" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">合作</h2> </div>
+</div>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-77c49421 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77c49421" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4891c15b" data-id="4891c15b" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-97cb81d elementor-widget elementor-widget-image" data-id="97cb81d" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img width="200" height="90" src="https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/Logo-Sunway-University-200-e1602943928671.png" class="attachment-full size-full" alt="" loading="lazy" /> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-70b992c3" data-id="70b992c3" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-12ee1d0 elementor-widget elementor-widget-image" data-id="12ee1d0" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img width="179" height="179" src="https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/logo6.gif" class="attachment-full size-full" alt="" loading="lazy" /> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1de5a8dd" data-id="1de5a8dd" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-7d02fdb1 elementor-widget elementor-widget-image" data-id="7d02fdb1" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img src="https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" /> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-75df1785 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="75df1785" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-388713ce" data-id="388713ce" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-4d1f2e2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4d1f2e2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-821bc67" data-id="821bc67" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-5bfaf43 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5bfaf43" data-element_type="widget" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
+<span class="elementor-icon-list-text">010-820 4037</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fab fa-facebook-square"></i> </span>
+<span class="elementor-icon-list-text"></span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fab fa-instagram"></i> </span>
+<span class="elementor-icon-list-text"></span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2500 2500" style="enable-background:new 0 0 2500 2500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2DC100;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path class="st0" d="M2500,2125c0,207.1-167.9,375-375,375H375c-207.1,0-375-167.9-375-375V375C0,167.9,167.9,0,375,0h1750
+	c207.1,0,375,167.9,375,375V2125z" />
+<g>
+<path class="st1" d="M1673.4,932.3c-201.8,10.5-377.2,71.7-519.7,209.9C1009.7,1281.8,944,1452.9,962,1665
+		c-78.9-9.8-150.7-20.5-222.9-26.6c-25-2.1-54.6,0.9-75.7,12.8c-70.1,39.6-137.4,84.3-217.1,134.1c14.6-66.2,24.1-124.1,40.9-179.8
+		c12.3-41,6.6-63.7-31.1-90.4c-242.2-171-344.3-426.9-267.9-690.4C258.8,581,432.4,433.1,668.3,356.1
+		c322-105.2,683.8,2.1,879.6,257.7C1618.5,706.1,1661.9,809.8,1673.4,932.3L1673.4,932.3z M744.7,850.2
+		c1.9-48.2-39.9-91.6-89.5-93.1c-50.8-1.5-92.5,37.3-94,87.4c-1.5,50.7,37.3,91.4,88.4,92.7C700.3,938.5,742.8,899.6,744.7,850.2
+		L744.7,850.2z M1229.2,757.1c-49.8,0.9-91.8,43.3-91,91.7c0.9,50.1,42.2,89.4,93.4,88.8c51.3-0.6,90.3-40.3,89.8-91.5
+		C1321,795.9,1279.9,756.2,1229.2,757.1z" />
+<path class="st1" d="M2126.7,2190.2c-63.9-28.4-122.5-71.1-184.9-77.6c-62.2-6.5-127.5,29.4-192.5,36
+		c-198.1,20.3-375.6-34.9-521.9-170.3c-278.3-257.4-238.5-652.1,83.4-863.1c286.2-187.5,705.9-125,907.6,135.2
+		c176.1,227,155.4,528.3-59.6,719c-62.2,55.2-84.6,100.6-44.7,173.4C2121.6,2156.3,2122.4,2173.3,2126.7,2190.2L2126.7,2190.2z
+		 M1399.4,1486.1c40.7,0,74.2-31.8,75.7-72c1.6-42.5-32.6-78.2-75.2-78.4c-42.2-0.2-77.5,36-76,77.9
+		C1325.3,1453.7,1359,1486,1399.4,1486.1L1399.4,1486.1z M1868.2,1335.9c-39.5-0.3-73,32-74.6,71.9c-1.7,42.6,31.4,77.7,73.6,77.8
+		c40.8,0.1,73.1-30.7,74.5-71.3C1943.4,1371.5,1910.2,1336.2,1868.2,1335.9z" />
+</g>
+</svg>
+</span>
+<span class="elementor-icon-list-text"></span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fab fa-youtube"></i> </span>
+<span class="elementor-icon-list-text"></span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-envelope"></i> </span>
+<span class="elementor-icon-list-text"></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e322025" data-id="e322025" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-8964308 elementor-widget elementor-widget-image" data-id="8964308" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img width="580" height="580" src="https://mindcraft_github.archerdesu.ga/wp-content/uploads/2020/10/2824107.svg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://mindcraft_github.archerdesu.ga/wp-content/uploads//2020/10/2824107.svg 150w, https://mindcraft_github.archerdesu.ga/wp-content/uploads//2020/10/2824107.svg 300w, https://mindcraft_github.archerdesu.ga/wp-content/uploads//2020/10/2824107.svg 1024w" sizes="(max-width: 580px) 100vw, 580px" /> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="elementor-element elementor-element-19fbb13 elementor-widget elementor-widget-html" data-id="19fbb13" data-element_type="widget" data-widget_type="html.default">
+<div class="elementor-widget-container">
+<span style="color: white">Credits:</span> <a href='https://www.freepik.com/vectors/infographic' style="color: white">The Infographic vectors used in this site are created by freepik - www.freepik.com with modifications</a> </div>
+</div>
 </div>
 </div>
 </div>
@@ -329,11 +1132,11 @@ End of comment */
 <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text">Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="096460676d6a7b686f7d6a7c657c7b6c496e64686065276a6664">[email&#160;protected]</a></span>
+<span class="elementor-icon-list-text">Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="593430373d3a2b383f2d3a2c352c2b3c193e34383035773a3634">[email&#160;protected]</a></span>
 </li>
 </ul>
 </div>
- </div>
+</div>
 </div>
 </div>
 </div>
@@ -366,6 +1169,8 @@ End of comment */
 </div>
 </div>
 </div> </footer>
+<link rel='stylesheet' id='twae-fontello-css-css' href='https://mindcraft_github.archerdesu.ga/wp-content/plugins/timeline-widget-addon-for-elementor/assets/css/twae-fontello.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='twae-horizontal-css-css' href='https://mindcraft_github.archerdesu.ga/wp-content/plugins/timeline-widget-addon-for-elementor/assets/css/twae-horizontal-styles.min.css?ver=5.5.1' media='all' />
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script id='contact-form-7-js-extra'>
 var wpcf7 = {"apiSettings":{"root":"https:\/\/mindcraft_github.archerdesu.gaindex.php?rest_route=\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
 </script>
@@ -389,9 +1194,10 @@ var BB_SCENES = {"path":{"settings":{"shortcode":{"text":{"name":"text","icon":"
 <script src='https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
 <script src='https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.10' id='share-link-js'></script>
 <script id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.10","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/mindcraft_github.archerdesu.gawp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":124,"title":"","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.10","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/mindcraft_github.archerdesu.gawp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2130,"title":"","excerpt":"","featuredImage":false}};
 </script>
 <script src='https://mindcraft_github.archerdesu.ga/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.10' id='elementor-frontend-js'></script>
+<script src='https://mindcraft_github.archerdesu.ga/wp-content/plugins/timeline-widget-addon-for-elementor/assets/js/twae-horizontal.min.js' id='twae-horizontal-js-js'></script>
 <script>
 	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 	</script>
