@@ -331,7 +331,7 @@ End of comment */
 <i aria-hidden="true" class="fas fa-star"></i> </span>
 </div>
 <div class="elementor-icon-box-content">
- <h3 class="elementor-icon-box-title">
+<h3 class="elementor-icon-box-title">
 <span>Critical Thinking（批判性思维）</span>
 </h3>
 <p class="elementor-icon-box-description">
@@ -794,7 +794,7 @@ End of comment */
 <span class="twae-extra-label">思匠直播课</span>
 </div></div>
 <div class="twae-icon"><i aria-hidden="true" class="fas fa-wrench"></i></div><div class="twae-story-info">
- <span class="twae-title">思匠直播课</span>
+<span class="twae-title">思匠直播课</span>
 <div class="twae-description"><p>Aliter homines, aliter philosophos loqui putas oportere?</p></div>
 </div>
 </div><div class="swiper-slide no-height"><div class="twae-label-extra-label"><div>
@@ -1083,7 +1083,7 @@ End of comment */
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 <span class="elementor-icon-list-text">Whatsapp：010-820 4037（提供连接到相关号码）</span>
-</li>
+ </li>
 <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fab fa-facebook-square"></i> </span>
@@ -1132,7 +1132,7 @@ End of comment */
 <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text">Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="593430373d3a2b383f2d3a2c352c2b3c193e34383035773a3634">[email&#160;protected]</a></span>
+<span class="elementor-icon-list-text">Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f69b9f9892958497908295839a838493b6919b979f9ad895999b">[email&#160;protected]</a></span>
 </li>
 </ul>
 </div>
