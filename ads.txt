@@ -1137,7 +1137,7 @@ End of comment */
 								<li class="elementor-icon-list-item">
 											<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-envelope"></i>						</span>
-										<span class="elementor-icon-list-text">Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6e0307000a0d1c0f081a0d1b021b1c0b2e09030f0702400d0103">[email&#160;protected]</a></span>
+										<span class="elementor-icon-list-text">Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d6bbbfb8b2b5a4b7b0a2b5a3baa3a4b396b1bbb7bfbaf8b5b9bb">[email&#160;protected]</a></span>
 									</li>
 						</ul>
 				</div>
